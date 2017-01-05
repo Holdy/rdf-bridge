@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Holdy/rdf-bridge.git"
   },
-  "author": "Chris H <chris.holden@rainbird.ai>",
+  "author": "Holdy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Holdy/rdf-bridge/issues"
