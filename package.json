@@ -1,0 +1,25 @@
+{
+  "name": "rdf-bridge",
+  "version": "0.0.1",
+  "description": "A bridge between text and RDF resources.",
+  "main": "rdfBridge.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/rdf-bridge.git"
+  },
+  "author": "Chris H <chris.holden@rainbird.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/rdf-bridge/issues"
+  },
+  "homepage": "https://github.com/Holdy/rdf-bridge#readme",
+  "dependencies": {
+    "kgjs": "0.0.x"
+  }
+}
